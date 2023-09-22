@@ -1,3 +1,6 @@
 <?php
-echo "Welcome To PHP Code";
+
+echo "Welcome Rajveer Singh";
+echo "Welocme to PHP code";
+
 ?>
