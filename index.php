@@ -1,3 +1,3 @@
-<?Pphp
+<?php
 echo "Welcome To PHP Code";
 ?>
